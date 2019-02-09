@@ -1,0 +1,19 @@
+the idea here is..
+
+the walet will be check the orginlity of coin
+so, if any one like to send money from his ewalte to another walet, reciver walet will check if this walet is OK or not
+if is OK make transfer, if no't don't
+
+easy way
+
+the walet will issued from the orginal site only "IEB" only
+and when bank issue new coins all walets in the world will know about it and the secert codes..
+
+for example
+in 10 Feb 2019 bank issue 1000 coins each one equals 1gr of 24kirat of Gold.
+each coin had hash no #code for example (002939ff03034040)
+so, if any one hade this coin in his walet then he like to send it to another one the walet send the data(#code) to 
+reciver walet with other data such as date , time of issued, and make check with the the #code no , so if any thing is ok.
+eccepet the coin , other wise , refuse to eccepet this coin.
+of course all data and information will be secet and hashed, so no one know about issu date or the cod or any thing
+only the walet have the naccery data.
